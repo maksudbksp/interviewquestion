@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-02-11T19:53:49Z" name="Default suite" finished-at="2019-02-11T19:54:02Z" duration-ms="13393">
+    <groups>
+    </groups>
+    <test started-at="2019-02-11T19:53:49Z" name="Default test" finished-at="2019-02-11T19:54:02Z" duration-ms="13393">
+      <class name="pac1.HowtoHandleSubmenu">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:pac1.HowtoHandleSubmenu@e4487af]" started-at="2019-02-11T19:53:49Z" name="openbrowser" finished-at="2019-02-11T19:53:54Z" duration-ms="5593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="HandleSubmenu()[pri:0, instance:pac1.HowtoHandleSubmenu@e4487af]" started-at="2019-02-11T19:53:54Z" name="HandleSubmenu" finished-at="2019-02-11T19:54:02Z" duration-ms="7774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HandleSubmenu -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:pac1.HowtoHandleSubmenu@e4487af]" started-at="2019-02-11T19:54:02Z" name="CloseBrowser" finished-at="2019-02-11T19:54:02Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- pac1.HowtoHandleSubmenu -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
